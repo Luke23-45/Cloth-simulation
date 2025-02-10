@@ -112,7 +112,7 @@ This project uses `make` for building. To build the project, run the following c
         
 
 ## Demo Video
-Check out the project demo video on YouTube: https://www.youtube.com/watch?v=McOcbGHyAWA
+Check out the project demo video on YouTube: https://www.youtube.com/watch?v=STA1DmX_Isc
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
